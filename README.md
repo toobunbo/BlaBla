@@ -6,7 +6,7 @@ Hack là "Sử dụng những cách ngoài ý muốn hoặc bị bỏ qua" -- v�
 Jon Erickson chia "Sắc thái kỹ thuật" thành 2 ý chính
 
 ### Counterintuitive ways (Lợi thế phản trực giac): 
-Sẽ ra sao nếu bla bla :))). Nghe quen đúng k, điều này mang lại cho ra rất nhiều tư duy và cách giải quyết vấn đề không tưởng tượng. Trò chuyện với một người làm về bảo mật là hiểu, 2 câu, 3 câu tới câu thứ 4 là bắt đầu nói lỗ hổng liền ~~shout down Tran Chi Thien~~
+Sẽ ra sao nếu bla bla :))). Nghe quen đúng k, điều này mang lại cho ra rất nhiều tư duy và cách giải quyết vấn đề không tưởng tượng. Trò chuyện với một người làm về bảo mật là hiểu, 2 câu, 3 câu tới câu thứ 4 là bắt đầu nói lỗ hổng liền ~~sr anh Tran Chi Thien~~
 
 ### Tận dụng lỗ hổng triển khai: 
 cái này không còn gì lạ nữa,...
