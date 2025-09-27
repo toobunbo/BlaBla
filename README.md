@@ -25,7 +25,7 @@ Chơi theo luật, tất nhiên là chơi theo luật. Nhưng vẫn tà, một n
 ****
 *****
 ```
-**Người ta gọi đó là khôn lỏi, giờ tôi gọi là hack.**
+Người ta gọi đó là khôn lỏi, giờ tôi gọi là hack.
 
 Vậy như thế lào thì được gọi là hack kẻ có gu, hacker sành điệu. 
 
