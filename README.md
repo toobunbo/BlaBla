@@ -33,7 +33,7 @@ Vậy như thế lào thì được gọi là hack kẻ có gu, hacker sành đi
 
 Sự sáng tạo bắt nguồn từ việc hiểu sâu sắc cơ chế, bản chất của hệ thống, rất, rất nhiều người bỏ qua điều này,... ~~trong đó có Nguyễn Trần Tiến Đạt~~ 
 
-Việc hiểu kỹ thuật tấn công sử dụng ".htaccess" sẽ thú vị hơn rất nhiều khi biết về **httpd**, nổ não hơn nữa ta có "~~quên tên rồi~~" nó sẽ viết scipt ra lệnh cho file .php phải làm thêm gì khi file đó được thực thi.
+Việc hiểu kỹ thuật tấn công sử dụng ".htaccess" sẽ thú vị hơn rất nhiều khi biết về **httpd**, nổ não hơn nữa ta có "~~quên tên rồi~~" cho phép ta viết scipt ra lệnh cho file .php phải làm thêm gì khi file đó được thực thi.
 
 làm gì? muốn làm gì thì làm. Ae nên bổ sung khái niệm này PHP Injection :))).
 
