@@ -53,11 +53,9 @@ Về vấn đề đạo đức thôi, tuỳ vào cách con người sử dụng 
 
 `Kiến thức`, không phải đao kiếm ~~sogy đang đọc Vagabond~~. Tuỳ vào mục đích sử dụng mà nó tốt hay xấu, vậy cây katana dài hơn 1m của Kojiro thì chỗ nào tốt? 
 
-<img width="764" height="1200" alt="image" src="https://github.com/user-attachments/assets/d77c99e0-2b1f-4b63-a33e-a114e5daaa7f" />
+Ban đầu tôi nghĩ là thanh kiếm dùng để bảo vệ mọi người là thanh kiếm "tốt". Takezo bảo mình sinh ra để cầm kiếm, và đây là con đường đến ánh sáng. ~~dù chém hơn 70 thằng~~ và cũng chẳng có ai sinh ra là để cầm kiếm.
 
-Ban đầu tôi nghĩ là thanh kiếm dùng để bảo vệ mọi người là thanh kiếm "tốt". Takezo bảo mình sinh ra để cầm kiếm, và đây là con đường đến ánh sáng. ~~dù chém hơn 70 thằng~~ và cũng chẳng có ai sinh ra để cầm kiếm.
-
-<img width="697" height="863" alt="image" src="https://github.com/user-attachments/assets/ff9fcdec-9f0f-47eb-acd8-f739ada9687f" />
+<img width="497" height="663" alt="image" src="https://github.com/user-attachments/assets/ff9fcdec-9f0f-47eb-acd8-f739ada9687f" />
 
 
 
