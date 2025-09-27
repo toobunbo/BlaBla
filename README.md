@@ -17,7 +17,7 @@ Không chỉ liên quan đến Cyber. Việc giải quyết các vấn đề to�
 
 J. Erickson đề cập :"tìm ra cách sử dụng không chủ ý cho các quy tắc/luật lệ là xương sống của Hacking" 
 
-Chơi theo luật, tất nhiên là vẫn theo luật. Nhưng vẫn tà, một người lười như tôi thì sẽ luôn tìm cách nhanh nhất, dễ nhất để giải quyết một vấn đề..., viết thuật toán thì lâu nên tôi in thẳng test case ra chẳng hạn :), cái thời mà không biết có nhiều test case. 
+Chơi theo luật, tất nhiên là chơi theo luật. Nhưng vẫn tà, một người lười như tôi thì sẽ luôn tìm cách nhanh nhất, dễ nhất để giải quyết một vấn đề..., viết thuật toán thì lâu nên tôi in thẳng test case ra chẳng hạn :), cái thời mà không biết có nhiều test case. 
 ```
 *
 **
